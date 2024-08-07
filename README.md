@@ -14,11 +14,11 @@ The project uses the following concepts from other research papers to increase i
 4. Introduced a **Dropout** of 0.2 to tackle overfitting
 
 <img src="https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5" width="400" />
-<img src="https://github.com/user-attachments/assets/fb2d947f-674c-4512-ad1d-32c91d507727" width="400" />
+<img src="https://github.com/user-attachments/assets/fb2d947f-674c-4512-ad1d-32c91d507727" width="600" />
 
 
 
-
+Output:
 ![image](https://github.com/user-attachments/assets/093bad3f-8f28-42d8-bdf4-112cdb62a540)
 ![image](https://github.com/user-attachments/assets/bc30a9d3-92b0-4315-bfb7-eaadb80b0ee2)
 
