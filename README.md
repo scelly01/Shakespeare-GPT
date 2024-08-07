@@ -16,7 +16,7 @@ The project uses the following concepts from other research papers to increase i
 
 <div>
 <img src="https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5" width="400" />
-<img src="https://github.com/user-attachments/assets/bf7b9010-944f-4f46-b191-a283948abe96" width="600" margin=20px/>
+<img src="https://github.com/user-attachments/assets/bf7b9010-944f-4f46-b191-a283948abe96" width="600" margin="20"/>
 </div>
 
 
