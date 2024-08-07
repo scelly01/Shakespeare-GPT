@@ -16,13 +16,15 @@ The project uses the following concepts from other research papers to increase i
 
 <img src="https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5" width="400" />
 <img src="https://github.com/user-attachments/assets/bf7b9010-944f-4f46-b191-a283948abe96" width="600" />
-
+![image](https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5)
+![image](https://github.com/user-attachments/assets/bf7b9010-944f-4f46-b191-a283948abe96)
 
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/093bad3f-8f28-42d8-bdf4-112cdb62a540)
 ![image](https://github.com/user-attachments/assets/bc30a9d3-92b0-4315-bfb7-eaadb80b0ee2)
 
+![image](https://github.com/user-attachments/assets/5fdd3b78-d3cf-4e38-a4ee-af3183da8497)
 
 
 
