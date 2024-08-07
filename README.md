@@ -15,7 +15,7 @@ The project uses the following concepts from other research papers to increase i
 
 
    
-[Link to PPT](https://github.com/scelly01/Shakespeare-GPT/blob/fa47d26955b26825d7cd98d6efd85a678f2efadc/GPT%20PPT.pdf)
+[Link to PPT](https://github.com/scelly01/Shakespeare-GPT/blob/37dbeb29df1ed4c9d86d40106b2ad9ea27aa8295/PPT.pdf)
 
 
 <img src="https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5" width="400" />
