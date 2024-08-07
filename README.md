@@ -13,6 +13,8 @@ The project uses the following concepts from other research papers to increase i
 3. Used concept of **PreNorm** (Normalising weights before performing Attention) from **Llama**
 4. Introduced a **Dropout** of 0.2 to tackle overfitting
 
+![image](https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5)
+![image](https://github.com/user-attachments/assets/502e0ddc-d3ce-43c3-aa61-7d1ba216c43b)
 
 
 
