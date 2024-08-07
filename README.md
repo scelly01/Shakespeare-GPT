@@ -1,6 +1,11 @@
-Generative Pre-Trained Transformer:
+# Generative Pre-Trained Transformer:
+
+# Pre-Training Stage Implementation
+
+A generalized Large Language Model which generates text resembling the syntactic and semantic pattern of the text corpus it is trained on, in this case TinyShakespeare dataset.
 
 
+![image](https://github.com/user-attachments/assets/3fb7e21f-839b-4b1a-8684-23766ab145dd)
 
 
 
