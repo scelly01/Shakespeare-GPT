@@ -23,7 +23,7 @@ The project uses the following concepts from other research papers to increase i
 ![image](https://github.com/user-attachments/assets/bc30a9d3-92b0-4315-bfb7-eaadb80b0ee2)
 
 
-<img src="https://github.com/user-attachments/assets/5fdd3b78-d3cf-4e38-a4ee-af3183da8497" width="500" />
+<img src="https://github.com/user-attachments/assets/5fdd3b78-d3cf-4e38-a4ee-af3183da8497" width="800" />
 
 
 ![image](https://github.com/user-attachments/assets/5fdd3b78-d3cf-4e38-a4ee-af3183da8497)
