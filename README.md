@@ -12,10 +12,14 @@ The project uses the following concepts from other research papers to increase i
 2. Initialized 0th epoch neural network weights within a standard deviation inspired from **BERT**
 3. Used concept of **PreNorm** (Normalising weights before performing Attention) from **Llama**
 4. Introduced a **Dropout** of 0.2 to tackle overfitting
-   
 
+
+   
+Link to PPT: https://github.com/scelly01/Shakespeare-GPT/blob/fa47d26955b26825d7cd98d6efd85a678f2efadc/GPT%20PPT.pdf
 <img src="https://github.com/user-attachments/assets/204c16b9-7c4e-4b6a-b882-49d0cac231e5" width="400" />
 <img src="https://github.com/user-attachments/assets/bf7b9010-944f-4f46-b191-a283948abe96" width="600" />
+
+
 
 
 ### Output:
