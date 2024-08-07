@@ -16,8 +16,8 @@ function App() {
       });
   }, []);
 
-  const firstHalf = text.slice(0, text.length / 2.5 + 5);
-  const secondHalf = text.slice(text.length / 1.5 -5, text.length-1);
+  const firstHalf = text.slice(0, text.length / 2.3);
+  const secondHalf = text.slice(text.length / 1.7, text.length-1);
 
   const preStyle = {
     whiteSpace: 'pre-wrap'

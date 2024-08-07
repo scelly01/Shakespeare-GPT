@@ -16,8 +16,8 @@ function App() {
       });
   }, []);
 
-  const firstHalf = text.slice(0, text.length / 2.5 + 5);
-  const secondHalf = text.slice(text.length / 1.5 -5, text.length-1);
+  const firstHalf = text.slice(0, text.length / 2);
+  const secondHalf = text.slice(text.length / 2, text.length-1);
 
   const preStyle = {
     whiteSpace: 'pre-wrap'
@@ -29,8 +29,8 @@ function App() {
           <div className='title'>Shakespeare GPT</div>
           <div className='names'>
             <div className='n1'>Sparsh Celly <br/> <sub>20103102</sub></div>
-            <div className='n2'>Kriti Singh <br/> <sub>20803008</sub> </div>
-            <div className='n3'>Akshit Gupta <br/> <sub>20103337</sub> </div>
+            <div className='n2'>Kriti Singh <br/> <sub>20103102</sub> </div>
+            <div className='n3'>Akshit Gupta <br/> <sub>20103102</sub> </div>
           </div>
       </div>
       <div className="text">
