@@ -3,14 +3,14 @@
 ## Pre-Training Stage Implementation
 
 A generalized Large Language Model which generates text resembling the syntactic and semantic pattern of the text corpus it is trained on, in this case TinyShakespeare dataset.
-Based on the famous research paper "**Attention is all you need**".
+Based on the famous research paper _"**Attention is all you need**"_.
 Used the OpenAI Decoder architecture to create a **6 layer Decoder** only Transformer based on **Self-Attention**.
 
 
 The project uses the following concepts from other research papers to increase its perfomance - 
 1. Resisual Networks (**Res-Net**) from Convolutional Neural Networks
 2. Initialized 0th epoch neural network weights within a standard deviation inspired from **BERT**
-3. Used concept of PreNorm (Normalising weights before performing Attention) from **Llama**
+3. Used concept of **PreNorm** (Normalising weights before performing Attention) from **Llama**
 4. Introduced a **Dropout** of 0.2 to tackle overfitting
 
 
